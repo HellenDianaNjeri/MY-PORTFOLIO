@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="Hellen Diana Macharia Banner" width="100%" />
+  <img src="Hellen Diana Banner.png" alt="Hellen Diana Macharia Banner" width="100%" />
 </p>
 
 # 👋🏽 Hey there, I'm **Hellen Diana Njeri Macharia**  
